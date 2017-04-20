@@ -1,0 +1,5 @@
+ARG=" 2355  -1000 2064   6509   5473        
+"; ./push_swap $ARG | ./checker $ARG
+
+
+
